@@ -2,8 +2,10 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins:400,600,900,700,500&display=swap');
 footer {
   background-color: rgb(16, 35, 50);
-  padding: 0;
+  padding: 36px 0px;
   margin: 0;
+  overflow: hidden;
+  height: 450px;
   font-size: 27px;
   font-family: 'Poppins', sans-serif;
   margin-bottom: 0px;
@@ -20,10 +22,280 @@ footer {
 
 }
 
+.section-footer {
+  position: relative;
+  top: -400px;
+  left: 27%;
+}
 
+
+.conatiner-style {
+  color: white;
+  
+
+}
+
+
+.header-style4 {
+  margin-top: -35px;
+  font-size: 27px;
+  font-weight: 600;
+  color: white;
+}
+
+
+
+.header-style3 {
+  font-size: 33px;
+  font-weight: 700;
+  color: white;
+}
+
+.Erp {
+  position: relative;
+  right: 35%;
+  top: -270px;
+}
+
+
+.right-col {
+  position: relative;
+  right: 5%
+  ;
+}
+
+.CRM:hover {
+  color: orange;
+}
+
+
+.link-style {
+  font-size: 16px;
+  color: white;
+  display: block;
+}
+
+
+.margin {
+  margin-top: -94px;
+
+}
+
+
+.margin2 {
+
+  margin-top: -45px;
+}
+
+.margin3 {
+  margin-top:-30px;
+
+}
+
+
+.margin4 {
+  margin-top: -47px;
+
+}
+
+
+.margin5 {
+  margin-top: 20px;
+
+}
+
+
+.margin6 {
+  margin-top: -46px;
+
+}
+
+
+.margin7 {
+  margin-top: -15px;
+
+}
+.Erp {
+position: relative;
+right: 35%;
+top: -270px;
+}
+
+
+ 
+.margin8 {
+  margin-top: -45px;
+
+}
+
+
+     
+.margin9 {
+position: relative;
+right: 35%;
+top: -300px;
+}
+
+
+.margin10 {
+position: relative;
+right: 35%;
+top: -347px;
+}
+
+
+
+.margin11 {
+position: relative;
+right: 35%;
+top: -395px;
+}
+
+
+
+.margin12 {
+position: relative;
+right: 35%;
+top: -445px;
+}
+
+
+
+.margin13 {
+position: relative;
+right: 35%;
+top: -490px;
+}
+
+
+
+
+
+.margin14 {
+position: relative;
+right: 35%;
+top: -535px;
+}
+
+
+
+
+
+.margin15 {
+position: relative;
+right: 35%;
+top: -577px;
+}
+
+
+
+
+
+.margin16 {
+position: relative;
+
+top: -910px;
+left: 35%;
+}
+
+
+.margin17 {
+position: relative;
+
+top: -955px;
+left: 35%;
+}
+
+
+.margin18 {
+position: relative;
+
+top: -997px;
+left: 35%;
+}
+
+
+.ring2-move2 {
+  position: relative;
+  top: -700px;
+  left: 80%;
+}
+
+
+.a {
+  position: relative;
+  top: -47px;
+
+}
+
+.a2 {
+  position: relative;
+  top: -120px;
+}
+
+
+
+.move-r {
+  position: relative;
+  top: -900px;
+  left: 35%;
+}
+
+ 
+
+
+
+.links {
+  color: white;
+  font-size: 16px;
+}
+
+
+
+.CRM {
+  font-size: 24px;
+  font-weight: 600;
+
+}
+
+
+
+.blue-bnr {
+  position: relative;
+  right: 8.5%;
+  top: -5px;
+}
+
+
+.footer-p {
+  font-size: 12px;
+  position: relative;
+  right: 5.5%;
+  color: white;
+}
+
+.email-style {
+  position: relative;
+  top: 20px;
+  right: 6%;
+  border: none;
+  border-radius: 30px;
+  background-color :rgb(217,220,255);
+  width: 35%;
+  height: 50px;
+}
+
+
+.email-style::placeholder {
+  position: relative;
+  top: -5px;
+  left: 5%;
+  font-size: 15px;
+}
 .Crm {
   position: relative;
   right: 40%;
+  top: 80px;
  
 }
 
@@ -36,6 +308,8 @@ footer {
     font-size: 4rem;
     font-family: 'Poppins', sans-serif;
 }
+
+ 
 
 
 .span-style {
@@ -50,7 +324,8 @@ footer {
 
   font-family: 'Poppins', sans-serif;
   position: relative;
-  left: 15%;
+  left: 17%;
+  top: 10px;
   text-align: left;
   font-weight: 400;
   line-height: 1.7;
@@ -311,7 +586,16 @@ html, body {
   color: rgb(27, 27, 61);
   
 }
-/* Additional styles to ensure the navbar links remain unaffected */
+
+.p-style4 {
+  font-size: 16px;
+  color: white;
+  position: relative;
+  right: 5%;
+  top: -30px;
+}
+
+
 
 
 .bold-text {
@@ -739,7 +1023,16 @@ left: 27%;
   }
 
 
-  .App-style {
+  .header-style {
+    font-family: Poppins, sans-serif;
+    font-size: 32px;
+    font-weight: 700;
+  }
+
+
+  .header-style2 {
+    position: relative;
+    right: 7%;
     font-family: Poppins, sans-serif;
     font-size: 32px;
     font-weight: 700;
@@ -767,20 +1060,41 @@ left: 27%;
   .p-style3 {
     position: relative;
     left: 12%;
-    top: -25px;
-    font-size: 17px;
+    top: -28px;
     line-height: 1.5;
+    font-size: 16px;
     font-family: Poppins, sans-serif;
   }
 
+
+  .side {
+    position: relative;
+    right: 5%;
+  }
+
+  .col-up {
+    position: relative;
+    top: -120px;
+  }
 
   .red {
     position: relative;
     top: 10px;
     left: 1%;
   }
+
+  .red2 {
+    position: relative;
+    top: 10px;
+    right: 5%;
+  }
   .image-container2:hover {
     transform: scale(1.1);
+  }
+
+
+  .P-img-move {
+    margin-left: 200px;
   }
   
   .image2 {
